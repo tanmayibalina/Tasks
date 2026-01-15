@@ -1,8 +1,12 @@
-#Task 1 Hello World 
-In this task i have used a 16x2 I2C LCD to print "hello world" in the first line along with a seconds timer in the second line using C++ programming language 
+# Task
+## DESCRIPTION
+The following circuits are desgined in tinkercad and coded in C++ language.
 
-#Task 2 Led
-In this task an Led and a potentionmeter are used. The knob of the potentiometer is used to regulate the brightness of the led accordingly.
+# TASK 1 HELLO WORLD
+A 16X2 I2C LCD screen,An Ardiuno are used in this. The idea is to print "Hello World" in the first line of the screen and a seconds timer in the second line.
 
-#Task 3 RGB Led
-In this task, An RGB Led is used along with a potentiometer. The knob of the potentiometer is turned to change the colours of the led.
+# Task 2 Led
+An led,a potentiometer and an ardunio are used. It is coded in such a way that The knob of the potentiometer,when turned,changes the brightness of the led.
+
+# Task 3 RGB LED
+An RGB led,a potentiometer and an ardunio are used. IT's function is similar to the above task, As the knob of the potentiometer is turned the colours of the LED change accordingly starting from RED.
